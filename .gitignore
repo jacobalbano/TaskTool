@@ -1,0 +1,7 @@
+
+.vs
+bin
+obj
+packages
+TaskTool.sln
+TaskTool.csproj.user
